@@ -102,7 +102,7 @@
     },
     {
       "key": "皮皮虾",
-      "name": "❤皮虾┃4K",
+      "name": "❤皮虾┃4K免扫码",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
       "ext": "http://154.94.224.98:8762"
@@ -144,7 +144,7 @@
     },
     {
       "key": "九灵移动",
-      "name": "❤九灵┃4K",
+      "name": "❤九灵┃4K免扫码",
       "type": 3,
       "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
       "api": "csp_YDjisu",

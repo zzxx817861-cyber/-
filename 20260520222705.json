@@ -108,6 +108,16 @@
       "ext": "http://154.94.224.98:8762"
     },
     {
+      "key": "csp_xBPQ_奇优",
+      "name": "🅱️奇优影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/z-blog/xh2/-/raw/main/lib/%E5%A5%87%E4%BC%98%E5%BD%B1%E8%A7%86.json"
+    },
+    {
       "key": "电影先生",
       "name": "🔥电影┃先生",
       "type": 3,
